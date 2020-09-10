@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Мария Яркова](https://up.htmlacademy.ru/htmlcss/29/user/1558671).
-* Наставник: `Руслан Бреев`(https://htmlacademy.ru/profile/blckwltz).
+* Наставник: [Руслан Бреев](https://htmlacademy.ru/profile/blckwltz).
 
 ---
 
